@@ -91,7 +91,7 @@ The included test ensures a book cannot be lent out twice at the same time.
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Laravel 11
+- **Framework:** Laravel 12
 - **PHP:** 8.2+
 - **Database:** MySQL/SQLite
 - **Testing:** PHPUnit
